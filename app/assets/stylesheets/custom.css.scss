@@ -62,6 +62,14 @@ footer ul li {
   margin-left: 15px;
 }
 
+.article-actions {
+  border-top: 1px solid #eaeaea;
+}
+
+.description {
+  margin-top: 0;
+}
+
 // 'bootstrap-sprockets' must be imported before 'bootstrap' and 'bootstrap/variables'
 @import "bootstrap-sprockets";
 @import "bootstrap";
