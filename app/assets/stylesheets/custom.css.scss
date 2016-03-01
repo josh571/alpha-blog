@@ -70,6 +70,17 @@ footer ul li {
   margin-top: 0;
 }
 
+.article_title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.artice-body {
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 // 'bootstrap-sprockets' must be imported before 'bootstrap' and 'bootstrap/variables'
 @import "bootstrap-sprockets";
 @import "bootstrap";
