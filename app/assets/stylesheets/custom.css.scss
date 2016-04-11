@@ -86,6 +86,11 @@ footer ul li {
   padding-bottom: 15px;
 }
 
+.listing {
+  list-style: none;
+  padding-left: 0;
+}
+
 // 'bootstrap-sprockets' must be imported before 'bootstrap' and 'bootstrap/variables'
 @import "bootstrap-sprockets";
 @import "bootstrap";
